@@ -14,10 +14,10 @@ $(document).ready(function () {
     })
    
     function timeTracker() {
-        // get current number of hours.
+        // Get current number of hours.
         var timeNow = moment().hour();
 
-        // loop over time blocks
+        // Loop over time blocks
         $(".time-block").each(function () {
             var blockTime = parseInt($(this).attr("id").split("hour")[1]);
 
