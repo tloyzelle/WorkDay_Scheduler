@@ -35,7 +35,7 @@ body {
     height: 80px;
     border-top: 1px solid white;
   }
-  
+  /*times*/
   .hour {
     background-color: #ffffff;
     color: #000000;
@@ -56,7 +56,7 @@ body {
     background-color: #77dd77;
     color: white;
   }
-  
+  /*button*/
   .saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
