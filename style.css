@@ -35,7 +35,7 @@ body {
     height: 80px;
     border-top: 1px solid white;
   }
-  /*times*/
+  /*Times*/
   .hour {
     background-color: #ffffff;
     color: #000000;
@@ -56,7 +56,7 @@ body {
     background-color: #7ae67a;
     color: white;
   }
-  /*button*/
+  /*Button*/
   .saveBtn {
     border-left: 1px solid black;
     border-top-right-radius: 15px;
@@ -70,7 +70,7 @@ body {
     transition: all 0.3s ease-in-out;
   }
   
-  /* adding to make screen smaller if changed */
+  /* Adding to make screen smaller if changed */
   @media screen and (max-width: 768px), screen and (max-width: 575px) {
     .row {
       height: auto;
